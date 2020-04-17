@@ -1,4 +1,4 @@
-baseURL = "http://localhost" # The URL of your site.
+baseURL = "https://tender-edison-d651a5.netlify.app" # The URL of your site.
 title = "Hugo Zzo Theme" # Title of your site
 theme = "zzo" # Name of Zzo theme folder in `themes/`.
 
